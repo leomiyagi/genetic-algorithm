@@ -1,3 +1,16 @@
+# TECH CHALLENGE 2 - IA PARA DEVS - GRUPO 19
+
+# Autores do tech challenge 
+
+# Humberto Maia   RM - RM356284
+# Leonardo Miyagi RM - RM354517
+# Luiz Henriques  RM - RM355821
+# Luiz Fonseca    RM - RM354217
+# Rafael Pivetta  RM - RM355824
+
+
+
+
 # genetic-algorithm 
 
 ## O Problema 
